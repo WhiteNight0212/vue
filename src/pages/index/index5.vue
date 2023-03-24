@@ -3,7 +3,7 @@
         <my-form>
             <view>
                 <input class="input" placeholder="请输入" />
-                <radio class="radio"></radio>
+                <radio class="radio"></radio>   
                 <checkbox class="checkbox"></checkbox>
             </view>
         </my-form>
